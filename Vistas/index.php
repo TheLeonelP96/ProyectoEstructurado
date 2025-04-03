@@ -12,8 +12,7 @@
 <body>
     <?php
         include "menu.php"
-    ?> 
-    </nav>
+    ?>
     <div>
     <h1>Bienvenidos al proyecto</h1>
     </div>
